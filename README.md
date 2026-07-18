@@ -5,13 +5,14 @@ I've been a **Pipeline developer** in the VFX/animation industry since 2016.
 My work focuses on the invisible but critical infrastructure that keeps creative pipelines flowing. Whether it's deep integration within DCCs (Maya, Houdini, Blender...), containerizing complex environments with Docker, or architecting production tracker logic, I build tools that prioritize reliability and technical clarity.
 
 - 👷‍♂️ I specialized in what I call "code spelunking": digging into complex systems to fix deep-seated bugs, optimize performance, and ensure scalability.
-- 💬 I’m fluent in French, English and in IT/artist/production "dialects" 😄
+- 👨‍🏫 I teach Rigging and supervise students on their graduation movie. I also taught motion capture, VEX, Python, and mechanical anatomy. 
+- 💬 I’m fluent in French, English, and in IT/artist/production "dialects" 😄
 - 🎉 I organize a monthly afterwork called "Le Jeudi des Graphistes"
-- 🤓 I'm always tinkering and learning: did a lot of 3d printing and IOT lately.
+- 🤓 I'm always tinkering and learning: did a lot of 3D printing and IoT lately.
 
 ## ✨ I worked on these projects
 
-Here a non-exhaustive list of movies, series, trailers and ads I  worked on along the years. Click on the thumbnails to see them.
+Here a non-exhaustive list of movies, series, trailers, and ads I worked on along the years. Click on the thumbnails to see them.
 
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
@@ -144,4 +145,4 @@ A CLI tool that detects silences in videos and generates a Final Cut Pro X (FCPX
 ---
 ## 🌐 Connect with Me
 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/mathieubouzard) or check my others socials: [Gitlab](https://gitlab.com/mathbou), [Artstation](https://www.artstation.com/mathbou) and [Vimeo](https://vimeo.com/mathbou)
+You can reach me on [LinkedIn](https://www.linkedin.com/in/mathieubouzard) or check my other socials: [Gitlab](https://gitlab.com/mathbou), [Artstation](https://www.artstation.com/mathbou) and [Vimeo](https://vimeo.com/mathbou)
