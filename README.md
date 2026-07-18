@@ -45,7 +45,7 @@ Here a non-exhaustive list of movies, series, trailers, and ads I worked on alon
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <a href="[https://www.youtube.com/watch?v=TR2qP9P_WVo](https://www.youtube.com/watch?v=iFN9DouWuYY)">
+      <a href="https://www.youtube.com/watch?v=iFN9DouWuYY">
         <img height="140" alt="Miraculous World - Londres La Course contre le Temp V" src="https://github.com/user-attachments/assets/32c519e1-932b-4f83-9ef1-a3d50eb2dd66" />
       </a>
     </td>
