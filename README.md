@@ -14,8 +14,8 @@ My work focuses on the invisible but critical infrastructure that keeps creative
 Here a non-exhaustive list of movies, series, trailers and ads I  worked on along the years. Click on the thumbnails to see them.
 
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
-  <!-- Row 1 -->
   <tr>
+    <td align="center", valign="middle"></td>
     <td align="center" valign="middle">
       <a href="https://www.gaumont.com/fr/film/high-in-the-clouds">
         <img height="140" alt="HITC" src="https://github.com/user-attachments/assets/ac8c4ca2-2e41-46a2-a7f1-4ddba199318c" />
@@ -36,15 +36,23 @@ Here a non-exhaustive list of movies, series, trailers and ads I  worked on alon
         <img height="140" alt="ELDEN RING Shadow of the Erdtree" src="https://github.com/user-attachments/assets/b8b16c68-1214-426f-8da8-015b24a3a812" />
       </a>
     </td>
+    <td align="center", valign="middle">
+      <a href="https://www.youtube.com/watch?v=gLihxsmI_OU">
+        <img height="140" alt="Secret Level - New World" src="https://github.com/user-attachments/assets/b5a77b0a-cca2-4437-93f9-5d985dad0b2c" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="[https://www.youtube.com/watch?v=TR2qP9P_WVo](https://www.youtube.com/watch?v=iFN9DouWuYY)">
+        <img height="140" alt="Miraculous World - Londres La Course contre le Temp V" src="https://github.com/user-attachments/assets/32c519e1-932b-4f83-9ef1-a3d50eb2dd66" />
+      </a>
+    </td>
     <td align="center" valign="middle">
       <a href="https://www.youtube.com/watch?v=TR2qP9P_WVo">
         <img height="140" alt="Miraculous World - Paris, Les Aventures de Toxinelle et Griffe Noire" src="https://github.com/user-attachments/assets/c8d3da84-9e6c-4a55-9bff-cf5d5f5cfc7b" />
       </a>
     </td>
-  </tr>
-
-  <!-- Row 2 -->
-  <tr>
     <td align="center" valign="middle">
       <a href="https://www.youtube.com/watch?v=YvIZVxUk-JM">
         <img height="140" alt="Miraculous s6 V" src="https://github.com/user-attachments/assets/1db53f34-47ab-417b-b8ae-ae1579e048ac" />
@@ -56,27 +64,20 @@ Here a non-exhaustive list of movies, series, trailers and ads I  worked on alon
       </a>
     </td>
     <td align="center" valign="middle">
+      <a href="https://vimeo.com/488488410">
+        <img height="140" alt="Fairlight 84 pt1" src="https://github.com/user-attachments/assets/3fa918a5-eb3f-44dc-adae-fee95c6a1e1a" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
       <a href="https://www.youtube.com/watch?v=4u2QR2XuYRk">
         <img height="140" alt="Evil Genius 2" src="https://github.com/user-attachments/assets/1eea926a-1167-42c3-a764-86fe6f5032ec" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle">
       <a href="https://www.youtube.com/watch?v=rA7BRa9_Lu4">
         <img height="140" alt="SubNautica; Below Zero" src="https://github.com/user-attachments/assets/92ea6fc4-5e11-4343-ab2a-e1b8bad707f9" />
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://www.youtube.com/watch?v=ux0DO8LR80U">
-        <img height="140" alt="Minuscule2" src="https://github.com/user-attachments/assets/428d8dc1-2224-44cf-8238-0823f7d3474c" />
-      </a>
-    </td>
-  </tr>
-
-  <!-- Row 3 -->
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://vimeo.com/488488410">
-        <img height="140" alt="Fairlight 84 pt1" src="https://github.com/user-attachments/assets/3fa918a5-eb3f-44dc-adae-fee95c6a1e1a" />
       </a>
     </td>
     <td align="center" valign="middle">
@@ -97,6 +98,11 @@ Here a non-exhaustive list of movies, series, trailers and ads I  worked on alon
     <td align="center" valign="middle">
       <a href="https://www.youtube.com/watch?v=MXN1nmL-DQU">
         <img height="140" alt="The Crew 2 V" src="https://github.com/user-attachments/assets/8a2679ee-8ef9-442f-bf6b-9f742bd7cfae" />
+      </a>
+    </td>
+     <td align="center" valign="middle">
+      <a href="https://www.youtube.com/watch?v=ux0DO8LR80U">
+        <img height="140" alt="Minuscule2" src="https://github.com/user-attachments/assets/428d8dc1-2224-44cf-8238-0823f7d3474c" />
       </a>
     </td>
   </tr>
