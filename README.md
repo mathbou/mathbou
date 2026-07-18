@@ -107,27 +107,33 @@ Here a non-exhaustive list of movies, series, trailers and ads I  worked on alon
 
 ### 🕹️ [Tetris For Maya](https://github.com/mathbou/Tetris-For-Maya)
 
+<sup>🧰 Tech: Python, Qt, Rust, Maya</sup><br>
 A fully playable Tetris clone running natively inside Autodesk Maya, built as both a fun experiment and a playground for learning **Python**, **Qt**, and **Rust**. Four successive versions (2016–2025) showcase technical evolution: from Maya 2016 compatibility to a Rust rewrite to explore modern programming paradigms, including dependency-free solutions.
 
 ### 👨‍💻 [MayaReCharm](https://github.com/mathbou/MayaReCharm)
 
+<sup>🧰 Tech: Kotlin, Python, Maya</sup><br>
 A workflow utility plugin bridging **JetBrains IDEs** and Autodesk Maya. Enables seamless, remote Python code execution, real-time logging and debugging from the IDE straight into a live Maya session.
 
 ### 👨‍💻 [ProjectTreeColorEnhanced](https://github.com/mathbou/ProjectTreeColorEnhanced)
 
+<sup>🧰 Tech: Java</sup><br>
 A **JetBrains IDE** plugin that colorizes files and folders in your project for better visibility. Features include a built-in color picker, real-time previews, and theme-aware colors (light/dark). Makes navigating large projects much more intuitive.
 
 ### 🐋 [Docker-CgWire](https://github.com/mathbou/docker-cgwire)
 
+<sup>🧰 Tech: Docker, Bash</sup><br>
 A ready-to-use Docker Compose stack for deploying [Kitsu](https://github.com/cgwire/kitsu) and [Zou](https://github.com/cgwire/zou), CGWire’s open-source CG/VFX production management tools. Includes scripts for database (PostgreSQL) and indexer (Meilisearch) upgrades, as well as LDAP integration for studios.
 
 ### 🐋 [Docker-Sops](https://github.com/mathbou/Docker-Sops)
 
+<sup>🧰 Tech: Docker, Bash</sup><br>
 A pre-configured Docker image combining [SOPS](https://github.com/getsops/sops) (for secret encryption) and [age](https://github.com/FiloSottile/age) (for key management). Ideal for securing configurations in Docker Compose stacks.
 
 ### 🎞️ [AutoCut](https://github.com/mathbou/AutoCut)
 
-A Python/FFmpeg tool that detects silences in videos and generates a Final Cut Pro X (FCPX) timeline with audio/video segments cut and organized on separate tracks (one for silent parts, one for the rest). Perfect for automated editing or cleaning up footage.
+<sup>🧰 Tech: Python, FFmpeg</sup><br>
+A CLI tool that detects silences in videos and generates a Final Cut Pro X (FCPX) timeline with audio/video segments cut and organized on separate tracks (one for silent parts, one for the rest). Perfect for automated editing or cleaning up footage.
 
 ---
 ## 🌐 Connect with Me
