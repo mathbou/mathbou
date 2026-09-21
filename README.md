@@ -110,7 +110,12 @@ Here a non-exhaustive list of movies, series, trailers, and ads I worked on alon
 </table>
 
 ---
-## 🚀 My Projects
+## 🚀 Tools I'm working on
+
+### 🎞️ [Piaf](https://gitlab.com/gaumont-animation-group/piaf)
+
+<sup>🧰 Tech: Python, Qt, FFmpeg, OpenTimelineIO</sup><br>
+A video processing and publishing toolkit for animation and VFX production. Provides a GUI and CLI for burning PSDs HUDs, cutting/encoding videos from timeline files, and publishing shots to production trackers.
 
 ### 🕹️ [Tetris For Maya](https://github.com/mathbou/Tetris-For-Maya)
 
